@@ -1,0 +1,9 @@
+# ======================================================
+# Workstation Safety Scorer v5.0 - Enhanced
+# ICT in Health & Ergonomics | UET Taxila Engineering
+# ======================================================
+
+streamlit>=1.38.0
+pandas>=2.1.0
+plotly>=5.22.0
+fpdf2>=2.7.9
